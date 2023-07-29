@@ -1,6 +1,8 @@
 AUTHOR = 'Yongsen Mao'
 SITENAME = 'Yongsen Mao'
 SITEURL = ''
+M_BLOG_NAME = 'Yongsen Mao Blog'
+M_BLOG_URL = 'blog/'
 
 PATH = 'content'
 ARTICLE_PATHS = ['blog']
@@ -31,8 +33,8 @@ DEFAULT_PAGINATION = 10
 
 THEME = 'm.css/pelican-theme'
 THEME_STATIC_DIR = 'static'
-DIRECT_TEMPLATES = ['index']
-# PAGINATED_TEMPLATES = {'archives': None, 'tag': None, 'category': None, 'author': None}
+DIRECT_TEMPLATES = ['index', 'categories', 'archives']
+PAGINATED_TEMPLATES = {'archives': None, 'tag': None, 'category': None, 'author': None}
 
 FORMATTED_FIELDS = ['summary']
 FORMATTED_FIELDS += ['landing']
@@ -56,13 +58,28 @@ M_FAVICON = ('favicon.ico', 'image/x-ico')
 M_BLOG_FAVICON = ('favicon-blog.png', 'image/png')
 
 M_SITE_LOGO_TEXT = 'Yongsen Mao'
+M_HIDE_ARTICLE_SUMMARY = True
+
+PAGE_URL = '{slug}/'
+PAGE_SAVE_AS = '{slug}/index.html'
+ARCHIVES_URL = 'blog/'
+ARCHIVES_SAVE_AS = 'blog/index.html'
+ARTICLE_URL = '{slug}/' # category is part of the slug (i.e., examples)
+ARTICLE_SAVE_AS = '{slug}/index.html'
+AUTHOR_URL = 'author/{slug}/'
+AUTHOR_SAVE_AS = 'author/{slug}/index.html'
+CATEGORY_URL = 'category/{slug}/'
+CATEGORY_SAVE_AS = 'category/{slug}/index.html'
+TAG_URL = 'tag/{slug}/'
+TAG_SAVE_AS = 'tag/{slug}/index.html'
+
+SLUGIFY_SOURCE = 'basename'
+PATH_METADATA = '(?P<slug>.+).rst'
 
 M_LINKS_NAVBAR1 = [('Home', '/', 'home', []),
-                   ('CV', '/', 'cv', []),
-                   ('Blog', '/', 'blog', [])]
-
-# M_LINKS_FOOTER3 = [('Contact', ''),
-#                    ('E-mail', 'mailto:you@your.brand'),
-#                    ('GitHub', 'https://github.com/your-brand')]
+                   ('CV', 'cv/', 'cv', []),
+                   ('Blog', 'blog/', 'blog', [
+                       ('NeRFs', 'blog/nerfs/', 'blog/nerfs'),
+                   ])]
 
 M_FINE_PRINT = """Powered by `Pelican <https://getpelican.com>`_ and `m.css <https://mcss.mosra.cz>`_."""
