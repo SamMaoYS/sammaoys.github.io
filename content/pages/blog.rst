@@ -1,6 +1,8 @@
 Blog
 ####
 
+:save_as: blog/index.html
+
 .. contents::
     :class: m-block m-primary
 
