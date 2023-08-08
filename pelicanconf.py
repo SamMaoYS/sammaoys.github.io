@@ -79,6 +79,7 @@ M_LINKS_NAVBAR1 = [('Home', '/', 'home', []),
                    ('CV', 'cv/', 'cv', []),
                    ('Blog', 'blog/', 'blog', [
                        ('NeRFs', 'blog/nerfs/', 'blog/nerfs'),
+                       ('Real-Time Rendering', 'blog/real-time_rendering/', 'blog/real-time_rendering'),
                    ])]
 
 M_FINE_PRINT = """Powered by `Pelican <https://getpelican.com>`_ and `m.css <https://mcss.mosra.cz>`_."""

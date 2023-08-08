@@ -9,5 +9,8 @@ Blog
 .. contents::
     :class: m-block m-primary
 
+`Real-Time Rendering <{filename}/blog/nerfs.rst>`_
+===================================================
+
 `NeRFs <{filename}/blog/nerfs.rst>`_
 ======================================
