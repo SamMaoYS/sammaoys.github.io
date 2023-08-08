@@ -1,8 +1,6 @@
 AUTHOR = 'Yongsen Mao'
 SITENAME = 'Yongsen Mao'
 SITEURL = ''
-M_BLOG_NAME = 'Yongsen Mao Blog'
-M_BLOG_URL = 'blog/'
 
 PATH = 'content'
 ARTICLE_PATHS = ['blog']
@@ -23,6 +21,9 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('GitHub', 'https://github.com/SamMaoYS'),)
 
+M_BLOG_NAME = 'Yongsen Mao Blog'
+M_BLOG_URL = 'summary/'
+
 # Social widget
 SOCIAL = (('Email', '#'),)
 
@@ -33,10 +34,11 @@ DEFAULT_PAGINATION = 10
 
 THEME = 'm.css/pelican-theme'
 THEME_STATIC_DIR = 'static'
-DIRECT_TEMPLATES = ['index', 'categories', 'archives']
+DIRECT_TEMPLATES = ['archives']
 PAGINATED_TEMPLATES = {'archives': None, 'tag': None, 'category': None, 'author': None}
-
 FORMATTED_FIELDS = ['summary', 'landing', 'header', 'footer', 'description', 'badge']
+M_HTMLSANITY_SMART_QUOTES = True
+M_HTMLSANITY_HYPHENATION = True
 
 M_CSS_FILES = ['https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,600,600i%7CSource+Code+Pro:400,400i,600',
                '/static/m-dark.css']

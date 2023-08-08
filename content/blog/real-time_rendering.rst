@@ -3,7 +3,6 @@ Real-Time Rendering
 
 :category: textbooks
 
-
 .. contents::
     :class: m-block m-primary
 
