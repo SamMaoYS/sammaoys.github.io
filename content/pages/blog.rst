@@ -1,10 +1,6 @@
 Blog
 ####
 
-:category: blog
-:save_as: blog.html
-:url:
-
 .. contents::
     :class: m-block m-primary
 
