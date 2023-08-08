@@ -36,8 +36,7 @@ THEME_STATIC_DIR = 'static'
 DIRECT_TEMPLATES = ['index', 'categories', 'archives']
 PAGINATED_TEMPLATES = {'archives': None, 'tag': None, 'category': None, 'author': None}
 
-FORMATTED_FIELDS = ['summary']
-FORMATTED_FIELDS += ['landing']
+FORMATTED_FIELDS = ['summary', 'landing', 'header', 'footer', 'description', 'badge']
 
 M_CSS_FILES = ['https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,600,600i%7CSource+Code+Pro:400,400i,600',
                '/static/m-dark.css']

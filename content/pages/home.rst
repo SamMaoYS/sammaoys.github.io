@@ -4,6 +4,8 @@ Yongsen Mao
 
 :save_as: index.html
 :url:
+:description: I'm a thesis-based master student at SFU (Simon Fraser University), specializing in the fields of 3D Computer Vision and Graphics.
+:summary: I'm a thesis-based master student at SFU (Simon Fraser University), specializing in the fields of 3D Computer Vision and Graphics.
 :hide_navbar_brand: False
 :landing:
     .. container:: m-container
