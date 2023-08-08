@@ -3,6 +3,7 @@ Blog
 
 :category: blog
 :save_as: blog.html
+:hide_navbar_brand: False
 :breadcrumb: {filename}/pages/home.rst Home
 :url:
 
