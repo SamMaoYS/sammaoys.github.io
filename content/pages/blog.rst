@@ -3,7 +3,6 @@ Blog
 
 :category: blog
 :save_as: blog.html
-:hide_navbar_brand: True
 :url:
 
 .. contents::

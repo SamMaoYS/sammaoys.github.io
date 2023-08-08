@@ -22,7 +22,7 @@ AUTHOR_FEED_RSS = None
 LINKS = (('GitHub', 'https://github.com/SamMaoYS'),)
 
 M_BLOG_NAME = 'Yongsen Mao Blog'
-M_BLOG_URL = 'summary/'
+M_BLOG_URL = 'blog/'
 
 # Social widget
 SOCIAL = (('Email', '#'),)
@@ -63,8 +63,8 @@ M_HIDE_ARTICLE_SUMMARY = True
 
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
-ARCHIVES_URL = 'blog/'
-ARCHIVES_SAVE_AS = 'blog/index.html'
+ARCHIVES_URL = 'archives/'
+ARCHIVES_SAVE_AS = 'archives/index.html'
 ARTICLE_URL = '{slug}/' # category is part of the slug (i.e., examples)
 ARTICLE_SAVE_AS = '{slug}/index.html'
 AUTHOR_URL = 'author/{slug}/'
