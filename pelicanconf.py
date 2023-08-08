@@ -78,7 +78,7 @@ SLUGIFY_SOURCE = 'basename'
 PATH_METADATA = '(?P<slug>.+).rst'
 
 M_LINKS_NAVBAR1 = [('Home', '/', 'home', []),
-                   ('CV', 'cv/', 'cv', []),
+                   ('CV', '/images/YSM_CV.pdf', 'cv', []),
                    ('Blog', 'blog/', 'blog', [
                        ('NeRFs', 'blog/nerfs/', 'blog/nerfs'),
                        ('Real-Time Rendering', 'blog/real-time_rendering/', 'blog/real-time_rendering'),
