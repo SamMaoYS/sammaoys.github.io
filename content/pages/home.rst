@@ -39,10 +39,52 @@ Yongsen Mao
 
 News
 ----
+.. container:: m-container
 
+    .. container:: m-row
+
+        .. raw:: html
+            
+            <div>
+                <p>2024/06 Our layout controlnet model released on huggingface <a href="https://huggingface.co/kujiale-ai/controlnet-layout">kujiale-ai/controlnet-layout</a>, and demo at <a href="https://huggingface.co/spaces/ysmao/Layout-Control">ysmao/Layout-Control</a> </p>
+                <p>2024/05 Our paper on Ego-Exo4D is accepted to CVPR 2024. </p>
+                <p>2024/05 Our paper on HSSD-200 is accepted to CVPR 2024. </p>
+                <p>2023/11 Joined <a href="https://www.kujiale.com/">KuJiaLe</a>/<a href="https://www.coohom.com"> Coohom </a> as a research engineer. </p>
+            </div>
 
 Publications
 ------------
+
+.. container:: m-row m-block m-primary
+
+            .. container:: m-col-l-4
+
+                .. image:: {static}/images/papers/egoexo4d.jpeg
+                    :alt: egoexo4d
+
+            .. container:: m-col-l-8
+
+                .. raw:: html
+                    
+                    <h3>Habitat Synthetic Scenes Dataset (HSSD-200): <br/>
+                     An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation</h3>
+
+                    <div class="m-text">
+                    <a>Kristen Grauman, Andrew Westbury, Lorenzo Torresani, Kris Kitani, Jitendra Malik, Triantafyllos Afouras, Kumar Ashutosh, Vijay Baiyya, Siddhant Bansal, Bikram Boote, Eugene Byrne, Zach Chavis, Joya Chen, Feng Cheng, Fu-Jen Chu, Sean Crane, Avijit Dasgupta, Jing Dong, Maria Escobar, Cristhian Forigua, Abrham Gebreselasie, Sanjay Haresh, Jing Huang, Md Mohaiminul Islam, Suyog Jain, Rawal Khirodkar, Devansh Kukreja, Kevin J Liang, Jia-Wei Liu, Sagnik Majumder,</a> Yongsen Mao <a>, Miguel Martin, Effrosyni Mavroudi, Tushar Nagarajan, Francesco Ragusa, Santhosh Kumar Ramakrishnan, Luigi Seminara, Arjun Somayazulu, Yale Song, Shan Su, Zihui Xue, Edward Zhang, Jinxu Zhang, Angela Castillo, Changan Chen, Xinzhu Fu, Ryosuke Furuta, Cristina Gonzalez, Prince Gupta, Jiabo Hu, Yifei Huang, Yiming Huang, Weslie Khoo, Anush Kumar, Robert Kuo, Sach Lakhavani, Miao Liu, Mi Luo, Zhengyi Luo, Brighid Meredith, Austin Miller, Oluwatumininu Oguntola, Xiaqing Pan, Penny Peng, Shraman Pramanick, Merey Ramazanova, Fiona Ryan, Wei Shan, Kiran Somasundaram, Chenan Song, Audrey Southerland, Masatoshi Tateno, Huiyu Wang, Yuchen Wang, Takuma Yagi, Mingfei Yan, Xitong Yang, Zecheng Yu, Shengxin Cindy Zha, Chen Zhao, Ziwei Zhao, Zhifan Zhu, Jeff Zhuo, Pablo Arbelaez, Gedas Bertasius, David Crandall, Dima Damen, Jakob Engel, Giovanni Maria Farinella, Antonino Furnari, Bernard Ghanem, Judy Hoffman, C. V. Jawahar, Richard Newcombe, Hyun Soo Park, James M. Rehg, Yoichi Sato, Manolis Savva, Jianbo Shi, Mike Zheng Shou, Michael Wray</a>
+                    </div>
+                    <br/>
+
+                    <div class="m-text">
+                    We present Ego-Exo4D, a diverse, large-scale multimodal multiview video dataset and benchmark challenge. Ego-Exo4D centers around simultaneously-captured egocentric and exocentric video of skilled human activities (e.g., sports, music, dance, bike repair). 740 participants from 13 cities worldwide performed these activities in 123 different natural scene contexts, yielding long-form captures from 1 to 42 minutes each and 1,286 hours of video combined. The multimodal nature of the dataset is unprecedented: the video is accompanied by multichannel audio, eye gaze, 3D point clouds, camera poses, IMU, and multiple paired language descriptions -- including a novel "expert commentary" done by coaches and teachers and tailored to the skilled-activity domain. To push the frontier of first-person video understanding of skilled human activity, we also present a suite of benchmark tasks and their annotations, including fine-grained activity understanding, proficiency estimation, cross-view translation, and 3D hand/body pose. All resources are open sourced to fuel new research in the community.
+                    </div>
+
+                    <br/>
+
+                    <div class="m-text">CVPR 2024</div>
+
+                    <div class="m-text">
+                    <a href="https://arxiv.org/abs/2311.18259" class="m-link-wrap">Paper</a>, <a href="https://ego-exo4d-data.org/" class="m-link-wrap">Project</a>, <a href="https://docs.ego-exo4d-data.org" class="m-link-wrap">Code</a>
+                    </div>
 
 .. container:: m-row m-block m-primary
 
@@ -69,7 +111,7 @@ Publications
 
                     <br/>
 
-                    <div class="m-text">arXiv</div>
+                    <div class="m-text">CVPR 2024</div>
 
                     <div class="m-text">
                     <a href="https://arxiv.org/abs/2306.11290" class="m-link-wrap">Paper</a>, <a href="https://3dlg-hcvc.github.io/hssd/" class="m-link-wrap">Project</a>, <a href="https://github.com/3dlg-hcvc/hssd/" class="m-link-wrap">Code</a>
