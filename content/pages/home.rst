@@ -66,8 +66,7 @@ Publications
 
                 .. raw:: html
                     
-                    <h3>Habitat Synthetic Scenes Dataset (HSSD-200): <br/>
-                     An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation</h3>
+                    <h3>Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives</h3>
 
                     <div class="m-text">
                     <a>Kristen Grauman, Andrew Westbury, Lorenzo Torresani, Kris Kitani, Jitendra Malik, Triantafyllos Afouras, Kumar Ashutosh, Vijay Baiyya, Siddhant Bansal, Bikram Boote, Eugene Byrne, Zach Chavis, Joya Chen, Feng Cheng, Fu-Jen Chu, Sean Crane, Avijit Dasgupta, Jing Dong, Maria Escobar, Cristhian Forigua, Abrham Gebreselasie, Sanjay Haresh, Jing Huang, Md Mohaiminul Islam, Suyog Jain, Rawal Khirodkar, Devansh Kukreja, Kevin J Liang, Jia-Wei Liu, Sagnik Majumder,</a> Yongsen Mao <a>, Miguel Martin, Effrosyni Mavroudi, Tushar Nagarajan, Francesco Ragusa, Santhosh Kumar Ramakrishnan, Luigi Seminara, Arjun Somayazulu, Yale Song, Shan Su, Zihui Xue, Edward Zhang, Jinxu Zhang, Angela Castillo, Changan Chen, Xinzhu Fu, Ryosuke Furuta, Cristina Gonzalez, Prince Gupta, Jiabo Hu, Yifei Huang, Yiming Huang, Weslie Khoo, Anush Kumar, Robert Kuo, Sach Lakhavani, Miao Liu, Mi Luo, Zhengyi Luo, Brighid Meredith, Austin Miller, Oluwatumininu Oguntola, Xiaqing Pan, Penny Peng, Shraman Pramanick, Merey Ramazanova, Fiona Ryan, Wei Shan, Kiran Somasundaram, Chenan Song, Audrey Southerland, Masatoshi Tateno, Huiyu Wang, Yuchen Wang, Takuma Yagi, Mingfei Yan, Xitong Yang, Zecheng Yu, Shengxin Cindy Zha, Chen Zhao, Ziwei Zhao, Zhifan Zhu, Jeff Zhuo, Pablo Arbelaez, Gedas Bertasius, David Crandall, Dima Damen, Jakob Engel, Giovanni Maria Farinella, Antonino Furnari, Bernard Ghanem, Judy Hoffman, C. V. Jawahar, Richard Newcombe, Hyun Soo Park, James M. Rehg, Yoichi Sato, Manolis Savva, Jianbo Shi, Mike Zheng Shou, Michael Wray</a>
@@ -80,7 +79,7 @@ Publications
 
                     <br/>
 
-                    <div class="m-text">CVPR 2024</div>
+                    <div class="m-text">CVPR 2024, Oral</div>
 
                     <div class="m-text">
                     <a href="https://arxiv.org/abs/2311.18259" class="m-link-wrap">Paper</a>, <a href="https://ego-exo4d-data.org/" class="m-link-wrap">Project</a>, <a href="https://docs.ego-exo4d-data.org" class="m-link-wrap">Code</a>
