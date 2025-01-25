@@ -4,8 +4,8 @@ Yongsen Mao
 
 :save_as: index.html
 :url:
-:description: I'm a thesis-based master student at SFU (Simon Fraser University), specializing in the fields of 3D Computer Vision and Graphics.
-:summary: I'm a thesis-based master student at SFU (Simon Fraser University), specializing in the fields of 3D Computer Vision and Graphics.
+:description: I graduated as a thesis-based master student at SFU (Simon Fraser University), specializing in the fields of 3D Computer Vision and Graphics.
+:summary: I graduated as a thesis-based master student at SFU (Simon Fraser University), specializing in the fields of 3D Computer Vision and Graphics.
 :hide_navbar_brand: False
 :landing:
     .. container:: m-container
@@ -24,13 +24,13 @@ Yongsen Mao
 
                     <h1 style="text-transform: capitalize;">Yongsen Mao</h1>
 
-                    <div>I'm a thesis-based master student at <a href="https://www.sfu.ca" class="m-link-wrap">SFU</a> (Simon Fraser University), specializing in the fields of 3D Computer Vision and Graphics. I am fortunate to be supervised by Professors <a href="https://msavva.github.io" class="m-link-wrap">Manolis Savva</a> and mentored by <a href="https://angelxuanchang.github.io" class="m-link-wrap">Angel Xuan Chang</a> in the <a href="https://gruvi.cs.sfu.ca" class="m-link-wrap">GrUVi Lab</a>. My primary interest lies in the generation and understanding of 3D scenes for downstream vision and robotics applications. Prior to this, I received B.Eng. from <a href="https://www.zju.edu.cn/english" class="m-link-wrap">ZJU</a> (Zhejiang University) and SFU.</div>
+                    <div>I graduated as a thesis-based master student at <a href="https://www.sfu.ca" class="m-link-wrap">SFU</a> (Simon Fraser University), specializing in the fields of 3D Computer Vision and Graphics. I am fortunate to be supervised by Professors <a href="https://msavva.github.io" class="m-link-wrap">Manolis Savva</a> and mentored by <a href="https://angelxuanchang.github.io" class="m-link-wrap">Angel Xuan Chang</a> in the <a href="https://gruvi.cs.sfu.ca" class="m-link-wrap">GrUVi Lab</a>. My primary interest lies in the generation and understanding of 3D scenes for downstream vision and robotics applications. Prior to this, I received B.Eng. from <a href="https://www.zju.edu.cn/english" class="m-link-wrap">ZJU</a> (Zhejiang University) and SFU.</div>
 
                     <br/>
                     <br/>
                     
                     <div>
-                    sam_mao-{at}-sfu-[dot]-ca&emsp;
+                    mubin-{at}-qunhemail-[dot]-com&emsp;
                     <a href="https://scholar.google.com/citations?user=bm9JqwMAAAAJ&hl=en" class="m-link-wrap">Google Scholar</a>&emsp;
                     <a href="https://github.com/SamMaoYS" class="m-link-wrap">GitHub</a>
                     </div>
