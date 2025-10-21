@@ -3,12 +3,14 @@
 This is my personal website.
 
 # Installation
+
 ```bash
 pip install pelican
-pip install ghp-import 
+pip install ghp-import
 ```
 
 # Build the Website
+
 ```bash
 pelican content # build the static website
 pelican --listen # visualize locally
