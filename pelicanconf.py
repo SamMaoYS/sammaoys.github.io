@@ -48,6 +48,7 @@ M_THEME_COLOR = "#22272e"
 
 PLUGIN_PATHS = ["m.css/plugins", "pelican-plugins"]
 PLUGINS = [
+    "docutils_compat",
     "m.abbr",
     "m.code",
     "m.components",
