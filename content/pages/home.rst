@@ -72,7 +72,7 @@ Publications
 
             .. container:: m-col-l-4
 
-                .. image:: {static}/images/papers/nala.png
+                .. image:: {static}/images/papers/nala.jpg
                     :alt: nala
 
             .. container:: m-col-l-8
@@ -102,7 +102,7 @@ Publications
 
             .. container:: m-col-l-4
 
-                .. image:: {static}/images/papers/revsi.png
+                .. image:: {static}/images/papers/revsi.jpg
                     :alt: revsi
 
             .. container:: m-col-l-8
@@ -132,7 +132,7 @@ Publications
 
             .. container:: m-col-l-4
 
-                .. image:: {static}/images/papers/spatialgen.png
+                .. image:: {static}/images/papers/spatialgen.jpg
                     :alt: spatialgen
 
             .. container:: m-col-l-8
@@ -162,7 +162,7 @@ Publications
 
             .. container:: m-col-l-4
 
-                .. image:: {static}/images/papers/klingavatar.png
+                .. image:: {static}/images/papers/klingavatar.jpg
                     :alt: klingavatar
 
             .. container:: m-col-l-8
